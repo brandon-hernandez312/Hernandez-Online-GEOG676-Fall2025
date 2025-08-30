@@ -1,4 +1,10 @@
 ###### Brandon Hernandez-Hernandez
-Labs | Links 
---- | ---
-Lab 1 |  https://github.com/brandon-hernandez312/Hernandez-Online-GEOG676-Fall2025/blob/main/README.md#hernandez-online-geog676-fall2025
+Labs 
+:---:
+[Lab 1](Lab%201/README.md)
+[Lab 2](Lab%202/README.md)
+[Lab 3](Lab%203/README.md)
+[Lab 4](Lab%204/README.md)
+[Lab 5](Lab%205/README.md)
+[Lab 6](Lab%206/README.md)
+[Lab 7](Lab%207/README.md)
