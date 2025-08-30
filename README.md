@@ -1,4 +1,6 @@
-###### Brandon Hernandez-Hernandez
+# GIS Programming
+### Brandon Hernandez-Hernandez
+#### Fall 2025
 Labs 
 :---:
 [Lab 1](Lab%201/README.md)
