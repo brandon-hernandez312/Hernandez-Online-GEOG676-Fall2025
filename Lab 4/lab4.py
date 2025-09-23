@@ -17,7 +17,7 @@ arcpy.FeatureClassToGeodatabase_conversion(input_layer, gdb_path)
 garage_points = gdb_path + '\\' + garage_layer_name
 
 # open campus gdb, copy building feature to our gdb
-campus = r'C:\DevSource\Hernandez-Online-GEOG676-Fall2025\Lab 4\Campus.gdb-20240114T205617Z-001\Campus.gdb'
+campus = r'C:\Users\brand\Downloads\Campus.gdb'
 buildings_campus = campus + '\Structures'
 buildings = gdb_path + '\\' + 'Buildings'
 
